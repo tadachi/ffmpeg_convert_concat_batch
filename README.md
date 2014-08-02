@@ -22,3 +22,8 @@ Instructions
 3. (optional) reset.bat to start all over again.
 
 convert.bat;concat.bat to run two commands on one line
+
+Output
+------
+
+The concatenated videos will be in converted\concatenated.
