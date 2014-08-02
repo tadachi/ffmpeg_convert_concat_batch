@@ -8,7 +8,7 @@ Requirements
 ------------
 
 1. Get ffmpeg from http://ffmpeg.zeranoe.com/builds/ .
-2. set the environmental variables to point to ffmpeg's bin e.g: C:\ffmpeg\bin if you have it installed there.
+2. set the PATH environmental variable to point to ffmpeg's bin e.g: C:\ffmpeg\bin if you have it installed there. (Google how to change PATH in windows)
 
 Instructions
 ------------
